@@ -3,4 +3,4 @@ Listas de Cálculo Vetorial e Tensorial (CVT) da UFABC. Dúvidas, problemas, cor
 
 ## Status
 - 2021/05/28: lista 1 - Roldão (v1.0)
-- 2021/05/31: lista 1 - Moodle (v1.0)
+- 2021/05/31: lista 1 - Nail/Vladislav (v1.0)
