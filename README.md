@@ -6,3 +6,4 @@ Listas de Cálculo Vetorial e Tensorial (CVT) da UFABC. Dúvidas, problemas, cor
 - 2021/05/31: lista 1 - Nail/Vladislav (v1.0)
 - 2021/06/01: lista 1 - Celso == lista 1 Roldão
 - 2021/06/03: lista 1 - Valery até fim da Parte I
+- 2021/06/03: lista 2 - Nail/Vladislav (v1.0)
