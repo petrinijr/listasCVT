@@ -11,4 +11,4 @@ Listas de Cálculo Vetorial e Tensorial (CVT) da UFABC. Dúvidas, problemas, cor
 - 2021/06/12: lista 2 - Roldão (preliminar) (v0.1)
 - 2021/06/13: lista 3 - Roldão (preliminar) (v0.1)
 - 2021/06/20: lista 2 - Roldão (v1.0)
-- 2021/06/21: lista 2.5 - Roldão (v1.0)
+- 2021/06/21: lista 2.5 - Roldão (v1.1)
